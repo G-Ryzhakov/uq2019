@@ -1,0 +1,17 @@
+channels:
+- conda-forge
+- damianavila82
+- defaults
+dependencies:
+- rise
+- pip:
+  - autograd
+  - matplotlib
+  - numpy
+  - sympy
+  - ipywidgets
+  - scipy
+  - numba
+  - pydoe
+  - pandas
+
